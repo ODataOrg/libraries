@@ -30,3 +30,10 @@ Breeze is a JavaScript library that helps you manage data in rich client applica
 V1-V3<br>
 Client<br>
 [breeze.com](http://www.breezejs.com/home)
+
+**OpenUI5**<br>
+OpenUI5 is a JavaScript library maintained by SAP SE that is designed for building interactive business aplications. It supports data binding using OData protocol.<br>
+V1-V3<br>
+Client<br>
+[openui5.org](http://openui5.org/)
+
