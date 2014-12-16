@@ -78,3 +78,10 @@ The AdaptiveLINQ .QueryByCube() extension method applying to any IQueryable coll
 V1 – V3<br>
 Both<br>
 [AdaptiveLINQ](http://www.adaptivelinq.com/)
+
+**Simple.OData.Client for OData V1-4**<br>
+A multiplatform OData client library supporting .NET 4.x, Windows Store, Windows Phone 8, Silverlight 5, iOS and Android.<br>
+V1 – V4<br>
+Both<br>
+[NuGet Gallery](http://www.nuget.org/packages/Simple.OData.Client/)
+[Wiki Pages](https://github.com/object/Simple.OData.Client/wiki)
