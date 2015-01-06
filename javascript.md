@@ -11,7 +11,7 @@ Download link <br>
 The Apache Olingo OData Client for JavaScript (ODataJS) is a library written in JavaScript that enables browser based front end applications to easily use the OData protocol for communication with application servers.<br>
 V4 (4.0.0-beta-01)<br>
 Client<br>
-[Apache Olingo](http://olingo.apache.org/doc/javascript/download.html)
+[Apache Olingo](http://olingo.apache.org/doc/javascript/download.html) and [NuGet Gallery](https://www.nuget.org/packages/odatajs/)
 
 **datajs**<br>
 datajs is a new cross-browser JavaScript library that enables data-centric web applications by leveraging modern protocols such as JSON and OData and HTML5-enabled browser features.<br>
@@ -30,6 +30,12 @@ Breeze is a JavaScript library that helps you manage data in rich client applica
 V1-V3<br>
 Client<br>
 [breeze.com](http://www.breezejs.com/home)
+
+**node-odata**
+Create awesome REST APIs abide by OData Protocol v4. Its purpose is to easier to creating APIs, make you more focus on business logic.<br>
+V4<br>
+Server<br>
+[GitHub](https://github.com/TossShinHwa/node-odata)
 
 **OpenUI5**<br>
 OpenUI5 is a JavaScript library maintained by SAP SE that is designed for building interactive business aplications. It supports data binding using OData protocol.<br>
