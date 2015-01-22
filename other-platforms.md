@@ -29,4 +29,4 @@ Client<br>
 Pyslet is a Python package for Standards in Learning Education and Training. It implements a number of standards including OData v2 with both client and server capabilities.<br>
 V2<br>
 Both<br>
-[Link](https://code.google.com/p/qtimigration/)
+[Link](http://www.pyslet.org/)
