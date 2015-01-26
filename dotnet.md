@@ -85,3 +85,10 @@ V1 – V4<br>
 Both<br>
 [NuGet Gallery](http://www.nuget.org/packages/Simple.OData.Client/)
 [Wiki Pages](https://github.com/object/Simple.OData.Client/wiki)
+
+**Linq to QueryString**<br>
+Linq to Querystring is an expression parser for .NET that aims to provide a lightweight subset of the OData URI Specification. We focus only on the query aspect of the specification which is one of the most useful and flexible elements of OData.<br>
+Subset<br>
+Server<br>
+[Linq to QueryString](http://linqtoquerystring.net/)
+[NuGet Gallery](https://www.nuget.org/packages/LinqToQuerystring.WebApi/)
