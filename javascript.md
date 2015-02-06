@@ -32,7 +32,7 @@ Client<br>
 [breeze.com](http://www.breezejs.com/home)
 
 **node-odata**
-Create awesome REST APIs abide by OData Protocol v4. Its purpose is to easier to creating APIs, make you more focus on business logic.<br>
+Create awesome REST APIs abide by OData Protocol v4. Its purpose is to easier to creating APIs, make you more focus on business logic. Currently only works with MongoDB.<br>
 V4<br>
 Server<br>
 [GitHub](https://github.com/TossShinHwa/node-odata)
