@@ -43,3 +43,8 @@ V1-V3<br>
 Client<br>
 [openui5.org](http://openui5.org/)
 
+**DevExtreme**<br>
+DevExtreme is cross-platform HTML 5/JS tools for next-generation mobile and web development.<br>
+V1-V4<br>
+Both<br>
+[js.devexpress.com](http://js.devexpress.com/)
