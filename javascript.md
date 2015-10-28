@@ -48,3 +48,9 @@ DevExtreme is cross-platform HTML 5/JS tools for next-generation mobile and web 
 V1-V4<br>
 Both<br>
 [js.devexpress.com](http://js.devexpress.com/)
+
+**o.js**<br>
+o.js is a client side Odata Javascript library to simplify the request of data. The main goal is to build a standalone, lightweight and easy to understand Odata lib.<br>
+V3-V4<br>
+Client<br>
+[GitHub](https://github.com/janhommes/o.js)
