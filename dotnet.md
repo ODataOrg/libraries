@@ -75,7 +75,7 @@ Both<br>
 
 **AdaptiveLINQ**<br>
 The AdaptiveLINQ .QueryByCube() extension method applying to any IQueryable collection helps you to build an analysis engine querybale using the OData protocol.<br>
-V1 – V3<br>
+V1 – V4<br>
 Both<br>
 [AdaptiveLINQ](http://www.adaptivelinq.com/)
 
