@@ -29,3 +29,9 @@ ODataJClient is an Open Source (Apache License 2.0) library that enables Java ap
 V3<br>
 Client<br>
 [GitHub](https://github.com/MSOpenTech/ODataJClient)
+
+**Jello Framework**<br>
+Jello is a Java application framework optimized for Google App Engine including a powerful OData engine, comprehensive Data Authorization model, and out-of-the-box UI views.<br>
+V2<br>
+Both<br>
+[jello-framework.com](http://jello-framework.com)
